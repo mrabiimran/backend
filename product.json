@@ -1,0 +1,104 @@
+[
+  {
+    "id": 101,
+    "title": "Fishing Club",
+    "subject": "Fishing",
+    "location": "Creek",
+    "price": 100,
+    "image": "images/fishing.jpg",
+    "AvailableInventory": 10
+  
+  },
+  {
+    "id": 102,
+    "title": "Golf Club",
+    "subject": "Golf",
+    "location": "Golf Club",
+    "price": 155,
+    "image": "images/golf.jpg",
+    "AvailableInventory": 10
+   
+  },
+  {
+    "id": 103,
+   "title": "Gardening",
+    "subject": "Planting & Harvesting",
+    "location": "Dubai Hills",
+    "price": 130,
+    "image": "images/gardening1.jpg",
+    "AvailableInventory": 10
+    
+  },
+  {
+    "id": 104,
+    "title": "Stem Club",
+    "subject": "Stem",
+    "location": "Dubai Marina",
+    "price": 80,
+    "image": "images/stem.png",
+    "AvailableInventory": 10
+   
+  },
+  {
+    "id": 105,
+    "title": "Sports Club",
+    "subject": "Cricket",
+    "location": "Internet City",
+   "price": 100,
+    "image": "images/cricket.jpg",
+    "AvailableInventory": 10
+   
+  },
+  {
+    "id": 106,
+    "title": "Football Club",
+    "subject": "Football",
+    "location": "Dubai",
+    "price": 195,
+    "image": "images/football1.png",
+    "AvailableInventory": 10
+    
+  },
+  {
+    "id": 107,
+    "title": "Outdoor Activities",
+    "subject": "Horse Riding",
+    "location": "Meydan racecourse",
+    "price": 130,
+    "image": "images/horseriding.jpg",
+    "AvailableInventory": 10
+
+  },
+  {
+    "id": 108,
+    "title": "Fitness Club",
+    "subject": "Yoga",
+    "location": "Freezone",
+    "price": 170,
+    "image": "images/yoga.jpg",
+    "AvailableInventory": 10
+   
+  },
+  {
+    "id": 109,
+    "title": "Drama Club",
+    "subject": "Drama",
+    "location": "Dubai",
+    "price": 150,
+    "image": "images/Drama.jpg",
+    "AvailableInventory": 10
+    
+  },
+  {
+    "id": 110,
+    "title": "Dance Club",
+    "subject": "Dance",
+    "location": "Abu Dhabi",
+    "price": 120,
+    "image": "images/dance.jpg",
+    "AvailableInventory": 10
+    
+  }
+]
+  
+  
